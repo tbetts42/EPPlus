@@ -96,6 +96,7 @@
     <Compile Include="CalculationTests.cs" />
     <Compile Include="CompoundDoc.cs" />
     <Compile Include="ConditionalFormatting\ConditionalFormatting.cs" />
+    <Compile Include="Drawing\Chart\ExcelChartTwoSeriesTest.cs" />
     <Compile Include="Drawing\Chart\ExcelChartDataTableTest.cs" />
     <Compile Include="ExcelCellBaseTests.cs" />
     <Compile Include="ExcelPackageTests.cs" />
